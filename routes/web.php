@@ -91,3 +91,4 @@ Route::any('/urun/14-gun-ucretsiz-dene', [BaseController::class, 'index']);
 Route::any('/aboutus', [BaseController::class, 'aboutus']);
 Route::any('/integrations', [BaseController::class, 'integrations']);
 Route::any('/change-language/{id}', [BaseController::class, 'language']);
+
