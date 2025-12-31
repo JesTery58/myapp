@@ -1,0 +1,106 @@
+<?php
+/**
+ * Created by PhpStorm.
+ * User: Ramazzan
+ * Date: 12.10.2018
+ * Time: 10:15
+ */
+return[
+    //Menu
+    'contact'           =>'Contact',
+    'mainpage'          =>'Main Page',
+    'language'          =>'Languages',
+    'products'          =>'Products',
+    'blog'              =>'Blog',
+    'pages'             =>'Pages',
+    'sosialmedia'       =>'Sosial Media',
+    // İndex
+    'more'              =>'More...',
+    'product_groups'    =>'Product Group',
+    'get1a'             =>'Know-How',
+    'get1b'             =>'As technology advances, the flow of information accelerates.
+                        We are a company that has been trying to give direction for years',
+    'get2a'             =>'Advanced Technology ',
+    'get2b'             =>'echnology is not an idea, it is a way to get an idea.
+                           That"s why we admire technology and take advantage of it.',
+    'get3a'             =>'Smart Solutions',
+    'get3b'             =>'Today, thanks to smart solutions, we produce solutions that eliminate the so-called "must-have" and negativities.',
+
+    'get4b'             =>'Technology is not an idea, it is a way to get an idea. That"s why we admire technology and take advantage of it.
+                            We are working to leave a more advanced technology and a cleaner world to the Next Generations.',
+    'recentpost'        =>'Latest News',
+
+    'hemenara'          =>'Call Now',
+    'referanslar'          =>'Referances',
+    'a1'                =>'Rigit Profiles',
+    'a2'                =>'PVC Gasgets',
+    'a3'                =>'Kauçuk Gasgets',
+    'a4'                =>'We are your solution partner',
+    'a5'                =>'NetPlas produces new solutions with hundreds of companies in dozens of sectors with its years of knowledge and expert staff.
+                         We offer our support to you with new product design, mold design and production.
+                         We invite you to work with NetPlas....',
+    'slogan'            =>'Technology is not an idea, it is a way to get an idea. That s why we admire technology and take advantage of it..
+',
+    //Hakkımızda
+    'aboutus'           =>'About Us',
+    'aboutus2'          =>'What NetPlas Does and What Does It Think',
+    'baslik'            =>'History',
+    'contaveprofil'            =>'We Produce Gaskets and Profiles',
+    'yillik'            =>'Yearly',
+    'aylik'            =>'Mountly',
+    'gunluk'            =>'Daily',
+    'paragraf1'         =>'Netplas, as a manufacturer of PVC, rubber and other kind monomer, serves since 1996. Along recent years, Netplas, focusing on Rigid PVC 
+Profiles, aims to provide reasonable price and quality together.
+
+As a result of wide range products intelligence, we pay a great attention on new designs and new concepts. The search for solutions about 
+depletion makes the words  " efficiency and insulation "" much more 
+important. Depending on the idea, the products such as ones in monomer chemical which we take role, are having a big part increasing recently.',
+    'paragraf2'         =>'In the market of these materials, as Netplas, respects that it is a charge to offer alternative solutions for its customers and directs the investments upon this idea. We prefer to get benefits of our own study in order to achieve succes, not the copied and common methods.
+
+Finally, the catalog, in which we show the products, is not only for 
+representation of the limits that we can do, but also to be a source of new concepts.
+
+Best Regards.',
+    'slogan1'=>'Technology is not an idea, it is a way to get an idea. That s why we admire technology and take advantage of it. We are working to leave a more advanced technology and a cleaner world to the Next Generations.',
+    //İletişim
+    'staywithus'        =>'Stay With Us',
+    'yourname'          =>'Your Name',
+    'yourmail'          =>'Your Mail',
+    'yourphonenumber'   =>'Your Phone Number',
+    'subject'           =>'Subject',
+    'yourmessage'      =>'Your Message',
+    'submit'            =>'Send',
+    'youhaveanyquestion'            =>'You Have Any Question',
+    'youhaveanyquestion-two'        =>'Bize Sorun2',
+    'contactinformation'            =>'To meet your expectations in the best way, to provide the most accurate and most suitable solution, you can always send us the following channels for your satisfaction, suggestion or continuation of our products.',
+    'contactinformation2'        =>'İletişim Bilgileri 2',
+    'okdiv'      =>'Congratulations. Your message has been sent successfully',
+    'errordiv'      =>'Error, please retry. Your message has not been sent',
+    'getupdated'        =>'Get Updated',
+    'validate'        =>'Please Do Not Leave Empty Space',
+    'lutfenbekleyiniz'        =>'Please Wait...',
+    //Ürün Detay
+    'comments'          =>'Comments',
+    'similarproducts'   =>'Similar Products',
+    'requestaprice'     =>'Request Price',
+    'noitemsfound'        =>'No Item Found',
+    'whatsnew'          =>'Whats New',
+
+    //Arama Sayfası
+    'arama'                 =>'Product Searc',
+    'typetext'              =>'Searc...',
+    'resultsfound'          =>'Results Found',
+    'searchitem'          =>'Search Item',
+    'allproducts'          =>'All Products',
+    //Blog
+    'blogaltyazi'       =>'News From NetPlas',
+    'blogcategory'      =>'Blog Categories',
+    'blogsoneklenen'      =>'Latest Blogs',
+    //footer
+    'footer1'  =>'ECO FRIENDLY',
+    'footer2'  =>'Netplas in determined values, customer focused, honest and transparent, innovative, creative, teamwork believes employees continuously improve the environmental.',
+    'footer3'  =>'SATISFACTION OF CUSTOMER',
+    'footer4'  =>'In the market of these materials, as Netplas, respects that it is a charge to offer alternative solutions for its customers and directs the investments upon this idea.',
+    'pagenotfound' =>'PAGE NOT FOUND',
+
+];
